@@ -9,7 +9,7 @@ ENV \
   APK_ADD_TEMP="curl" \
   APK_ADD_PERM=""
 
-EXPOSE 10024
+EXPOSE 1313
 
 WORKDIR /
 
